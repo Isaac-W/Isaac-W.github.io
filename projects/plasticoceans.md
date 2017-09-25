@@ -20,7 +20,9 @@ My VR experience, Plastic Oceans, aims to educate people and raise awareness on 
 ## [](#header-2)Download
 
 Requires Google Cardboard and Android 4.4 KitKat or higher
+
 Interact with objects by aiming the reticule and pressing the cardboard button
+
 [Download](https://drive.google.com/open?id=0B8HZRfGRZVTkZG9IcDFBOXB1ZUk)
 
 ## [](#header-2)Assets Used
