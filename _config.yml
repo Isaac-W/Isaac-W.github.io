@@ -6,3 +6,6 @@ theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
+  
+plugins:
+  - jekyll-redirect-from
